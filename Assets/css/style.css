@@ -70,7 +70,7 @@ img.imagecaption {
   border-radius: 50%;
 
   float: right;
-  max-width: 10%;
+  max-width: 7%;
 }
 .section {
   display: flex;
@@ -167,23 +167,22 @@ li.footerlink {
   color: rgb(50, 52, 60);
 }
 /* Re-size for devices*/
-@media screen and (max-width: 768px) {
-  /* Use flex-direction to stack the navbar, body and footer */
+/*@media screen and (max-width: 768px) {
+  Use flex-direction to stack the navbar, body and footer
   main,
   nav,
   footer {
     flex-direction: column;
   }
-  /* Make the sidebar stack below the body */
+  /* Make the sidebar stack below the body 
   aside {
     order: 2;
   }
-  /* Change the header background */
+  /* Change the header background
   nav {
     background: rgb(50, 52, 60);
   }
-  /* Change the navbar and footer background */
-  footer {
+  /* Change the navbar and footer background
     background-color: whitesmoke;
   }
-}
+}*/
