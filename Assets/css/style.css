@@ -144,7 +144,8 @@ img.portfolio-images {
   margin: 0px;
 }
 .porfolio-images-text-bottom-left a {
-  text-decoration: solid;
+  /*text-decoration: solid;*/
+  text-decoration: none;
   font-size: 20px;
   text-align: right;
   color: whitesmoke;
