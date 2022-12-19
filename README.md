@@ -6,9 +6,13 @@ This week's challenge "Challenge 02" is to create a website that showcases some 
 
 ### Updates: What's new
 
+#### 19th Dec 2022
+- Added Group Project II Workout Tracker to portfolio
+- Updated screen shot in readme file
+
 #### 24th Oct 2022
 
-- Added Group Project 1 to portfolio
+- Added Group Project 1 Pick-a-meal to portfolio
 - Updated screen shot in readme file
 
 ## Tech/Framework Used
